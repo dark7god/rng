@@ -1,4 +1,4 @@
-package = "rng"
+package = "luarng"
 version = "scm-1"
 
 source = {
