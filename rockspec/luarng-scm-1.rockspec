@@ -25,7 +25,7 @@ build = {
 		rng = "rng.lua",
 		rngcore = {
 			sources = {
-				"rng.c", "SFMT.c",
+				"rngcore.c", "SFMT.c",
 			},
 		}
 	}
